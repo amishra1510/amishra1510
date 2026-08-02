@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Amritanshu Mishra
 
 🎓 B.Tech in Data Science & AI at TIET, Patiala
