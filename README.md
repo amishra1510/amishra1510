@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Passionate about software development and continuous learning.
+Passionate about software development and continuous learning.
 </h3>
 
 <br>
@@ -28,13 +28,15 @@
 
 <br><br>
 
-<a href="mailto:mishraamritanshu15@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/amritanshu-mishra-82137b375/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <a href="mailto:mishraamritanshu15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amritanshu-mishra-82137b375/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -86,27 +88,19 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amishra1510&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amishra1510&theme=github-dark&hide_border=true" />
 </p>
 
 <br/>
 <hr/>
 
-<h2 align="center">⚡ GitHub Statistics ⚡</h2>
+<h2 align="center">🔥 GitHub Streak 🔥</h2>
 
 <br>
 
-<div align="center">
-
-<img width="390" src="https://streak-stats.demolab.com?user=amishra1510&theme=react&border_radius=10" alt="GitHub Streak"/>
-
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=amishra1510&show_icons=true&count_private=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats"/>
-
-<br><br>
-
-<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amishra1510&layout=compact&theme=react&border_radius=10&langs_count=8" alt="Top Languages"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amishra1510&theme=github-dark-blue&hide_border=true&border_radius=10" />
+</p>
 
 <br/>
 <hr/>
