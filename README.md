@@ -104,3 +104,16 @@ Passionate about software development and continuous learning.
 
 <br/>
 <hr/>
+<br/>
+<hr/>
+
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/amishra1510" alt="Amritanshu Mishra's GitHub Contribution Calendar" />
+</p>
+
+<br/>
+<hr/>
