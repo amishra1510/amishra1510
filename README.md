@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amishra1510.amishra1510" />
+
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=34&center=true&vCenter=true&width=700&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;I'm+Amritanshu+Mishra;Welcome+to+my+GitHub!" />
