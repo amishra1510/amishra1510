@@ -1,5 +1,3 @@
-
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=700&size=34&center=true&vCenter=true&width=700&height=70&duration=4000&pause=1000&lines=Hi+There!+👋;I'm+Amritanshu+Mishra;Welcome+to+my+GitHub!" />
 </h1>
@@ -104,8 +102,6 @@ Passionate about software development and continuous learning.
 
 <br/>
 <hr/>
-<br/>
-<hr/>
 
 <h2 align="center">📅 Contribution Calendar</h2>
 
@@ -117,3 +113,18 @@ Passionate about software development and continuous learning.
 
 <br/>
 <hr/>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amishra1510/amishra1510/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
+
+<br/>
+<hr/>
+
+<h3 align="center"> Thanks for visiting my profile! </h3>
+
+<br>
