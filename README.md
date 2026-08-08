@@ -112,7 +112,7 @@ Passionate about software development and continuous learning.
 </p>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Contributions Snake 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amishra1510/amishra1510/output/github-contribution-grid-snake.svg" />
   
