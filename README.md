@@ -111,16 +111,13 @@ Passionate about software development and continuous learning.
   <img src="https://ghchart.rshah.org/409ba5/amishra1510" alt="Amritanshu Mishra's GitHub Contribution Calendar" />
 </p>
 
-<br/>
-<hr/>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amishra1510/amishra1510/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/amishra1510/amishra1510/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <br/>
 <hr/>
