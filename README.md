@@ -89,18 +89,7 @@ Passionate about software development and continuous learning.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amishra1510&theme=github-dark&hide_border=true" />
 </p>
 
-<br/>
-<hr/>
-
-<h2 align="center">🔥 GitHub Streak 🔥</h2>
-
 <br>
-
-<p align="center">
-  <img src="./profile/streak.svg" alt="GitHub Streak" />
-</p>
-
-<br/>
 <hr/>
 
 <div align="center">
@@ -110,7 +99,7 @@ Passionate about software development and continuous learning.
   <br/><br/><br/>
 </div>
 
-<br/>
+<br>
 <hr/>
 
 <h3 align="center"> Thanks for visiting my profile! </h3>
