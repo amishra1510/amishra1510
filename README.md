@@ -55,7 +55,7 @@ Passionate about software development and continuous learning.
 
 <h3>⚙️ Backend & Development</h3>
 
-<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github" />
 
 <br><br>
 
@@ -71,7 +71,7 @@ Passionate about software development and continuous learning.
 
 <h3>🛠️ Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
+<img src="https://skillicons.dev/icons?i=vscode,vercel" />
 
 <br><br>
 
