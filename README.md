@@ -86,7 +86,7 @@ Passionate about software development and continuous learning.
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amishra1510&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-guibranco.vercel.app/?user=amishra1510&theme=github-dark&hide_border=true" />
 </p>
 
 <br>
