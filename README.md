@@ -75,7 +75,7 @@ Passionate about software development and continuous learning.
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=canva" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Canva_logo.svg/3840px-Canva_logo.svg.png" width="130" alt="Canva" />
 
 </div>
 
