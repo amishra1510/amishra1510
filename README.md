@@ -77,6 +77,12 @@ Passionate about software development and continuous learning.
   <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
 
+<br><br>
+
+<h3>🌐 Web Development</h3>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
 </div>
 
 <br/>
