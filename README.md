@@ -72,8 +72,6 @@ Passionate about software development and continuous learning.
 <h3>🛠️ Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=vscode,vercel" />
-&nbsp;&nbsp;
-<img src="./canva-icon.svg?v=4" width="80" height="80" alt="Canva" />
 
 </div>
 
