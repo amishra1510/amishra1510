@@ -86,7 +86,7 @@ Passionate about software development and continuous learning.
 <br>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-guibranco.vercel.app/?user=amishra1510&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats-guibranco.vercel.app/?user=amishra1510&theme=github-dark&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakNum=2F81F7&sideNums=2F81F7&currStreakLabel=2F81F7&sideLabels=2F81F7&dates=2F81F7&stroke=2F81F7" />
 </p>
 
 <br>
