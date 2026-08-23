@@ -74,14 +74,9 @@ Passionate about software development and continuous learning.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=vercel" />
 </p>
-
-<br><br>
-
-<h3>🌐 Web Development</h3>
-
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
 </div>
 
