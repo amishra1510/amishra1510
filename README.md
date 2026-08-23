@@ -72,8 +72,7 @@ Passionate about software development and continuous learning.
 <h3>🛠️ Tools & Platforms</h3>
 
 <img src="https://skillicons.dev/icons?i=vscode,vercel" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="48" />
+<img src="https://raw.githubusercontent.com/amishra1510/amishra1510/main/canva.svg" width="96" height="96" alt="Canva" />
 
 </div>
 
