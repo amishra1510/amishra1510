@@ -81,6 +81,17 @@ Passionate about software development and continuous learning.
 <br/>
 <hr/>
 
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amishra1510&theme=github-dark&hide_border=true" />
+</p>
+
+<br>
+<hr/>
+
 <h2 align="center">📈 Contribution Activity</h2>
 
 <br>
