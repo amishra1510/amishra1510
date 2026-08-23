@@ -71,9 +71,11 @@ Passionate about software development and continuous learning.
 
 <h3>🛠️ Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://skillicons.dev/icons?i=vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</p>
 
 </div>
 
