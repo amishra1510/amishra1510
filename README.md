@@ -55,12 +55,13 @@ Passionate about software development and continuous learning.
 
 <h3>⚙️ Backend & Development</h3>
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github" />
+<img src="https://skillicons.dev/icons?i=fastapi" />
 
 <br><br>
 
-<h3>📊 Data Science Libraries</h3>
+<h3>📊 Data Science & Analytics</h3>
 
+<img src="https://skillicons.dev/icons?i=jupyter" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
@@ -70,7 +71,7 @@ Passionate about software development and continuous learning.
 
 <h3>🛠️ Tools & Platforms</h3>
 
-<img src="https://skillicons.dev/icons?i=vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,vercel" />
 
 <br><br>
 
