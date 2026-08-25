@@ -22,7 +22,7 @@ Passionate about software development and continuous learning.
 
 <br>
 
-⚡ I enjoy <b>learning by building</b> and turning ideas into practical projects.
+⚡ <b>Passionate about learning and creating useful things.</b>
 
 <br><br>
 
