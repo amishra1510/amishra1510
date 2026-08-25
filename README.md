@@ -10,19 +10,19 @@ Passionate about software development and continuous learning.
 
 <div align="center">
 
-🔭 I'm currently working on <b>DSA in C++</b> and personal projects
+🔭 Currently building <b>personal projects</b> and strengthening my <b>DSA in C++</b>
 
 <br>
 
-🌱 I'm currently learning <b>Git, GitHub, and FastAPI</b>
+🌱 Learning <b>Web Development</b> with HTML, CSS, JavaScript, and modern development tools
 
 <br>
 
-💬 Ask me about <b>C++, Python, Data Science, or DSA</b>
+💡 Interested in <b>Software Development, Web Development, Data Science, and DSA</b>
 
 <br>
 
-⚡ Fun fact: <b>I enjoy solving problems through code.</b>
+⚡ I enjoy <b>learning by building</b> and turning ideas into practical projects.
 
 <br><br>
 
