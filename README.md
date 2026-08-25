@@ -53,6 +53,12 @@ Passionate about software development and continuous learning.
 
 <br><br>
 
+<h3>🌐 Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css" />
+
+<br><br>
+
 <h3>⚙️ Backend & Development</h3>
 
 <img src="https://skillicons.dev/icons?i=fastapi,git,github" />
@@ -112,7 +118,7 @@ Passionate about software development and continuous learning.
   <br/><br/><br/>
 </div>
 
-<br/>
+<br>
 <hr/>
 
 <h3 align="center"> Thanks for visiting my profile! </h3>
