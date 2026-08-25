@@ -22,7 +22,7 @@ jobs:
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
           username: amishra1510
-          options: bg_color=0d1117&color=2F81F7&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&hide_border=true&days=31
+          options: bg_color=0d1117&color=2F81F7&line=2F81F7&point=FF7A00&area=true&area_color=2F81F7&hide_border=true&days=31
           output_path: assets/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
