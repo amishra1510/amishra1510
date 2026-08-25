@@ -27,7 +27,7 @@ Passionate about software development and continuous learning.
 <br><br>
 
 <p align="center">
-  <a href="mailto:mishraamritanshu15@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mishraamritanshu15@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
