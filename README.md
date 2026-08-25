@@ -99,10 +99,7 @@ Passionate about software development and continuous learning.
 <br>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/lifetime.dark.svg" />
-    <img alt="GitHub contribution activity" src="./assets/lifetime.light.svg" width="100%" />
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amishra1510&bg_color=0d1117&color=2F81F7&line=2F81F7&point=58A6FF&area=true&area_color=2F81F7&hide_border=true" width="100%" />
 </p>
 
 <br>
