@@ -67,11 +67,11 @@ Passionate about software development and continuous learning.
 
 <h3>📊 Data Science & Analytics</h3>
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" />
 
 <br><br>
 
@@ -109,7 +109,7 @@ Passionate about software development and continuous learning.
   <img src="https://raw.githubusercontent.com/amishra1510/amishra1510/main/assets/activity-graph.svg" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
-<br/>
+<br>
 <hr/>
 
 <div align="center">
@@ -119,7 +119,7 @@ Passionate about software development and continuous learning.
   <br/><br/><br/>
 </div>
 
-<br/>
+<br>
 <hr/>
 
 <h3 align="center"> Thanks for visiting my profile! </h3>
