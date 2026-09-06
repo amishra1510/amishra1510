@@ -65,7 +65,9 @@ Passionate about software development and continuous learning.
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/amishra1510/amishra1510/main/assets/data-science-analytics.svg" width="100%" alt="Data Science and Analytics tech stack: Jupyter, NumPy, Pandas, Matplotlib and Seaborn" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amishra1510/amishra1510/main/assets/data-science-analytics.svg" width="900" alt="Data Science and Analytics tech stack: Jupyter, NumPy, Pandas, Matplotlib and Seaborn" />
+</p>
 
 <br><br>
 
