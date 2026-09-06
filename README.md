@@ -79,7 +79,7 @@ Passionate about software development and continuous learning.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" height="48" width="48" />
   <img src="https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=vercel" />
