@@ -68,7 +68,11 @@ Passionate about software development and continuous learning.
 <h3>📊 Data Science & Visualization</h3>
 
 <p align="center">
-  <b>NumPy</b> &nbsp;•&nbsp; <b>Pandas</b> &nbsp;•&nbsp; <b>Matplotlib</b> &nbsp;•&nbsp; <b>Seaborn</b> &nbsp;•&nbsp; <b>Jupyter</b>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
 </p>
 
 <br><br>
@@ -107,7 +111,7 @@ Passionate about software development and continuous learning.
   <img src="https://raw.githubusercontent.com/amishra1510/amishra1510/main/assets/activity-graph.svg" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
-<br/>
+<br>
 <hr/>
 
 <div align="center">
