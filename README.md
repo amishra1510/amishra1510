@@ -65,6 +65,14 @@ Passionate about software development and continuous learning.
 
 <br><br>
 
+<h3>📊 Data Science & Visualization</h3>
+
+<p align="center">
+  <b>NumPy</b> &nbsp;•&nbsp; <b>Pandas</b> &nbsp;•&nbsp; <b>Matplotlib</b> &nbsp;•&nbsp; <b>Seaborn</b> &nbsp;•&nbsp; <b>Jupyter</b>
+</p>
+
+<br><br>
+
 <h3>🛠️ Tools & Platforms</h3>
 
 <p align="center">
