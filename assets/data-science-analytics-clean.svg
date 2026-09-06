@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="720" viewBox="0 0 1800 720">
+<rect width="1800" height="720" fill="#0d1117"/>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#10151c"/></linearGradient>
+  <linearGradient id="numpy" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4d8de7"/><stop offset="1" stop-color="#46b2d0"/></linearGradient>
+</defs>
+<rect width="1800" height="720" fill="url(#bg)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+  <g text-anchor="middle">
+    <text x="900" y="145" fill="#f0f6fc" font-size="68" font-weight="700">📊 Data Science &amp; Analytics</text>
+  </g>
+
+  <!-- Jupyter -->
+  <g>
+    <rect x="95" y="265" width="270" height="270" rx="28" fill="#161d26"/>
+    <circle cx="230" cy="400" r="82" fill="none" stroke="#f37726" stroke-width="25" stroke-dasharray="235 280" stroke-linecap="butt"/>
+    <circle cx="230" cy="400" r="82" fill="none" stroke="#f37726" stroke-width="25" stroke-dasharray="235 280" stroke-dashoffset="255" stroke-linecap="butt"/>
+    <circle cx="230" cy="318" r="10" fill="#9aa0a6"/>
+    <circle cx="230" cy="482" r="10" fill="#9aa0a6"/>
+  </g>
+
+  <!-- NumPy -->
+  <g>
+    <rect x="395" y="265" width="270" height="270" rx="28" fill="#161d26"/>
+    <polygon points="530,285 620,335 530,385 440,335" fill="#4aa9c8" stroke="#4d8de7" stroke-width="12"/>
+    <polygon points="440,335 530,385 530,500 440,450" fill="#4d8de7" stroke="#4d8de7" stroke-width="12"/>
+    <polygon points="620,335 530,385 530,500 620,450" fill="#45a9c9" stroke="#4d8de7" stroke-width="12"/>
+    <polygon points="530,385 620,335 620,450 530,500" fill="url(#numpy)"/>
+  </g>
+
+  <!-- Pandas -->
+  <g>
+    <rect x="695" y="265" width="270" height="270" rx="28" fill="#161d26"/>
+    <g fill="#f0f6fc">
+      <rect x="745" y="320" width="26" height="145"/>
+      <rect x="790" y="275" width="26" height="190"/>
+      <rect x="835" y="350" width="26" height="115"/>
+      <rect x="880" y="265" width="26" height="200"/>
+    </g>
+    <rect x="785" y="390" width="38" height="38" fill="#ffd000"/>
+    <rect x="830" y="410" width="38" height="38" fill="#e90087"/>
+  </g>
+
+  <!-- Matplotlib -->
+  <g>
+    <rect x="995" y="265" width="270" height="270" rx="28" fill="#161d26"/>
+    <circle cx="1130" cy="400" r="94" fill="#f7f7f7" stroke="#08749b" stroke-width="5"/>
+    <g stroke="#777" stroke-width="2" fill="none">
+      <line x1="1036" y1="400" x2="1224" y2="400"/><line x1="1130" y1="306" x2="1130" y2="494"/>
+      <circle cx="1130" cy="400" r="53"/><circle cx="1130" cy="400" r="78"/>
+    </g>
+    <g fill-opacity=".75" stroke="#555" stroke-width="2">
+      <path d="M1130 400 L1089 326 L1122 316 Z" fill="#ff9955"/>
+      <path d="M1130 400 L1205 358 L1220 388 Z" fill="#ffcc33"/>
+      <path d="M1130 400 L1175 470 L1150 487 Z" fill="#ff9955"/>
+      <path d="M1130 400 L1105 463 L1083 450 Z" fill="#65c96b"/>
+    </g>
+  </g>
+
+  <!-- Seaborn -->
+  <g>
+    <rect x="1295" y="265" width="270" height="270" rx="28" fill="#161d26"/>
+    <circle cx="1430" cy="400" r="86" fill="#f8f8f8" stroke="#ffffff" stroke-width="4"/>
+    <path d="M1344 370 Q1430 320 1516 370 L1516 400 Q1430 350 1344 400 Z" fill="#8cc8d8"/>
+    <path d="M1344 420 Q1430 370 1516 420 L1516 486 L1344 486 Z" fill="#5e759e"/>
+    <path d="M1344 430 Q1430 380 1516 430" fill="none" stroke="#fff" stroke-width="4"/>
+    <g fill="#413b78">
+      <rect x="1370" y="430" width="15" height="56"/><rect x="1390" y="412" width="15" height="74"/>
+      <rect x="1410" y="398" width="15" height="88"/><rect x="1430" y="415" width="15" height="71"/>
+      <rect x="1450" y="435" width="15" height="51"/>
+    </g>
+    <g fill="#8ccfcf" opacity=".8">
+      <circle cx="1370" cy="342" r="4"/><circle cx="1390" cy="334" r="4"/><circle cx="1410" cy="342" r="4"/>
+      <circle cx="1430" cy="330" r="4"/><circle cx="1450" cy="340" r="4"/><circle cx="1470" cy="332" r="4"/>
+      <circle cx="1490" cy="346" r="4"/>
+    </g>
+  </g>
+</g>
+</svg>
