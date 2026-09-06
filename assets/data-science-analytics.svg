@@ -8,7 +8,6 @@
 <circle cx="255" cy="435" r="105" fill="none" stroke="#f37726" stroke-width="28" stroke-dasharray="300 360"/>
 <circle cx="255" cy="435" r="105" fill="none" stroke="#f37726" stroke-width="28" stroke-dasharray="300 360" stroke-dashoffset="330"/>
 <circle cx="255" cy="330" r="10" fill="#9aa0a6"/><circle cx="255" cy="540" r="10" fill="#9aa0a6"/>
-<text x="255" y="448" fill="#f0f6fc" font-size="44" font-weight="500">jupyter</text>
 <text x="255" y="560" fill="#f0f6fc" font-size="46" font-weight="600">Jupyter</text></g>
 
 <!-- NumPy -->
