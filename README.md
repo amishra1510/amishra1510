@@ -70,8 +70,8 @@ Passionate about software development and continuous learning.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="48" height="48" alt="Matplotlib" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="48" height="48" alt="Seaborn" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/matplotlib.svg" width="48" height="48" alt="Matplotlib" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/seaborn.svg" width="48" height="48" alt="Seaborn" />
 
 <br><br>
 
@@ -109,7 +109,7 @@ Passionate about software development and continuous learning.
   <img src="https://raw.githubusercontent.com/amishra1510/amishra1510/main/assets/activity-graph.svg" width="100%" alt="GitHub contribution activity graph" />
 </p>
 
-<br>
+<br/>
 <hr/>
 
 <div align="center">
@@ -119,7 +119,7 @@ Passionate about software development and continuous learning.
   <br/><br/><br/>
 </div>
 
-<br>
+<br/>
 <hr/>
 
 <h3 align="center"> Thanks for visiting my profile! </h3>
